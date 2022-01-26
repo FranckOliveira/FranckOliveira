@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente trabalhando com suporte a infraestrutura de TI.
 - 🌱 Cursando Ciência de Dados na UNINTER E estudando Front-end (HTML5, CSS3, Javascript e React).
-- 👯 Pretenendo inserir todos os meus projetos e exercícios tanto em front-end quando em back-end (sugestões e críticas são sempre bem vindas!)
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ele/dele
+- 👯 Pretenendo inserir todos os meus projetos e exercícios tanto em front-end quando em back-end (sugestões e críticas são sempre bem vindas!).
+- 🤔 Sempre em busca de conhecimento.
+- 😄 Pronouns: ele/dele.
 ##
 <div align="center">
   <a href="https://github.com/franckoliveira">

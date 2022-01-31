@@ -1,7 +1,7 @@
 ### Olá! Me Chamo Francisco Oliveira 👋
 
 - 🔭 Atualmente trabalhando com suporte a infraestrutura de TI.
-- 🌱 Cursando Ciência de Dados na UNINTER E estudando Front-end (HTML5, CSS3, Javascript e React).
+- 🌱 Cursando Ciência de Dados na UNINTER E estudando Front-end (HTML5, CSS3, Javascript, React e Bootstrap).
 - 👯 Pretenendo inserir todos os meus projetos e exercícios tanto em front-end quando em back-end (sugestões e críticas são sempre bem vindas!).
 - 🤔 Sempre em busca de conhecimento.
 - 😄 Pronouns: ele/dele.

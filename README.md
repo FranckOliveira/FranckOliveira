@@ -45,7 +45,7 @@
   <img align="center" alt="franckoliveira-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="franckoliveira-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
-  </td></tr></table>  
+  </td></tr></table>
   
 ----
 
